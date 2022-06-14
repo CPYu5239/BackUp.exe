@@ -1,0 +1,16 @@
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\bin\Debug\netcoreapp3.1\BackUp.exe
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\bin\Debug\netcoreapp3.1\BackUp.deps.json
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\bin\Debug\netcoreapp3.1\BackUp.runtimeconfig.json
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\bin\Debug\netcoreapp3.1\BackUp.runtimeconfig.dev.json
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\bin\Debug\netcoreapp3.1\BackUp.dll
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\bin\Debug\netcoreapp3.1\BackUp.pdb
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.MainForm.resources
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.csproj.GenerateResource.cache
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.AssemblyInfo.cs
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.dll
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.pdb
+C:\Users\danie\Documents\BackUp.exe\BackUp\BackUp\obj\Debug\netcoreapp3.1\BackUp.genruntimeconfig.cache
